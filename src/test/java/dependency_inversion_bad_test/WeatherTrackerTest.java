@@ -1,5 +1,6 @@
 package src.test.java.dependency_inversion_bad_test;
 import org.junit.Test;
+import src.main.java.dependency_inversion_bad.WeatherTracker;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

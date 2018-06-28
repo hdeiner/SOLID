@@ -1,8 +1,6 @@
-package src.test.java.dependency_inversion_bad_test;
-import src.main.java.dependency_inversion_bad.*;
-
+package src.main.java.dependency_inversion_bad;
 public class WeatherTracker {
-    String currentConditions;
+    public String currentConditions;
     Phone phone;
     Emailer emailer;
 
