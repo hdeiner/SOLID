@@ -8,7 +8,7 @@ public class Greeter {
             return "Good evening, sir.";
         }
         else if (this.formality == "casual") {
-            return "Sup bro?";
+            return "whatsup bro?";
         }
         else if (this.formality == "intimate") {
             return "Hello Darling!";
